@@ -14,7 +14,7 @@ Here is the link of the challange-
 https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA
 
 Here is the solution site url-
-https://drougnov.github.io/social-proof-section-main/
+https://drougnov.github.io/social-proof-section-master/
 
 ## Built with
 
